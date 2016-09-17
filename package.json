@@ -1,0 +1,21 @@
+{
+  "name": "caea",
+  "version": "1.0.0",
+  "description": "Sistema de Contenido Adaptable al Estilo de Aprendizaje",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanniaravena/CAEA.git"
+  },
+  "author": "Software Execution",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanniaravena/CAEA/issues"
+  },
+  "homepage": "https://github.com/giovanniaravena/CAEA#readme"
+}
